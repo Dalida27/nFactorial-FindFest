@@ -1,0 +1,27 @@
+.smallimg{
+  height: 200px;
+  width: 100% !important;
+  border-radius: 5px !important;
+}
+
+.headings{
+  font-size: x-large !important;
+  font-weight: 600 !important;
+}
+.btn{
+  background-color: #0d1321 !important;
+  color: white !important;
+  box-shadow: none !important;
+  border-color: #0d1321 !important;
+}
+.bs{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding-bottom: 20px !important;
+  padding-top: 10px !important;
+  background-color: white;
+}
+
+.bigimg{
+  height: 400px;
+  border-radius: 5px !important;
+}

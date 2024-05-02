@@ -1,0 +1,33 @@
+.navbar{
+  background-color: #0d1321!important;
+  align-items: center;
+}
+
+.nav-link{
+  color: white !important;
+}
+
+.navbar-brand{
+  color: white !important;
+  font-size: xx-large;
+  font-weight: 500;
+  padding-left: 40px;
+}
+
+.navbar-nav{
+  margin-left: auto;
+  padding-right: 40px;
+  color: white;
+}
+
+.username {
+  color: #fff;
+}
+.some{
+  margin-left: 500px;
+}
+
+.some a{
+  color: white;
+  padding: 30px;
+}

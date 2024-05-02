@@ -1,0 +1,36 @@
+.about-main{
+  background-color: #f0ebd8;
+}
+
+.about-hero{
+  text-align: center;
+  padding-top: 30px;
+  width: 70%;
+  margin: auto;
+}
+
+.two{
+  display: flex;
+  justify-content: center;
+  width: 80%;
+}
+
+.three img{
+  height: 550px;
+  width: 400px;
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 350px; 
+}
+
+.four img{
+  height: 250px;
+  width: 400px;
+  margin: auto;
+  margin-left: 40px;
+  padding-bottom: 50px;
+}
+.five{
+  padding-top: 50px;
+}

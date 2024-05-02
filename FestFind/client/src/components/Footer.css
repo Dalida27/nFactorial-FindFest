@@ -1,0 +1,22 @@
+.mainfooter {
+  background-color: #0d1321;
+  color: white;
+}
+
+.site-footer {
+  padding-top: 20px;
+  color: white;
+}
+
+.footer-links li a {
+  color: white;
+}
+
+.footer-links li a:hover {
+  color: #f8f9fa;
+  text-decoration: none;
+}
+
+.mainfooter a{
+  color: white;
+}

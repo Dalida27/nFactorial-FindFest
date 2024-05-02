@@ -1,0 +1,57 @@
+.ml-3 {
+  margin-left: 1rem;
+}
+
+.mt-3 {
+  margin-top: 1rem;
+}
+
+.tab-content {
+  background: #f7f7f7;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+h1, h2, p {
+  margin: 10px 0;
+}
+
+.headings {
+  font-size: 22px;
+  color: #333;
+}
+
+.btn-primary {
+  background-color: #0056b3;
+  border-color: #004085;
+}
+
+.bs {
+  background-color: white;
+  box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
+
+.tab-content .row {
+  margin-top: 15px;
+}
+
+.ant-modal-body {
+  padding: 24px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.ant-carousel .slick-slide img {
+  margin: auto;
+  display: block;
+}
+
+.bigimg {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
